@@ -1,5 +1,5 @@
 
-*.gz
+cifar100/cifar-100-python.tar.gz
 cifar100/cifar-100-python/file.txt~
 cifar100/cifar-100-python/test
 cifar100/cifar-100-python/meta
